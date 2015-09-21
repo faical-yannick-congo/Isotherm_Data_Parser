@@ -15,7 +15,7 @@
                 "value": 0.00018797493667510997
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 5.76
             },
             "weights": [
@@ -61,7 +61,7 @@
                 "value": 0.40339554726036525
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.18
             },
             "weights": [
@@ -107,7 +107,7 @@
                 "value": 0.668266897746967
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.1
             },
             "weights": [
@@ -153,7 +153,7 @@
                 "value": 0.940755899213438
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.11
             },
             "weights": [
@@ -199,7 +199,7 @@
                 "value": 1.3183468870817225
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.15
             },
             "weights": [
@@ -245,7 +245,7 @@
                 "value": 1.8366097853619519
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.12
             },
             "weights": [
@@ -291,7 +291,7 @@
                 "value": 3.3493627516331155
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.21
             },
             "weights": [
@@ -337,7 +337,7 @@
                 "value": 6.6061938408212235
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.19
             },
             "weights": [
@@ -383,7 +383,7 @@
                 "value": 9.927909612051726
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.16
             },
             "weights": [
@@ -429,7 +429,7 @@
                 "value": 13.207177709638714
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.15
             },
             "weights": [
@@ -475,7 +475,7 @@
                 "value": 16.57443940807892
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.17
             },
             "weights": [
@@ -521,7 +521,7 @@
                 "value": 19.837809625383283
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.16
             },
             "weights": [
@@ -567,7 +567,7 @@
                 "value": 23.290043994134116
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.12
             },
             "weights": [
@@ -613,7 +613,7 @@
                 "value": 26.431171843754168
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.13
             },
             "weights": [
@@ -659,7 +659,7 @@
                 "value": 29.9792094387415
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.12
             },
             "weights": [
@@ -705,7 +705,7 @@
                 "value": 33.189813358218906
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.1
             },
             "weights": [
@@ -751,7 +751,7 @@
                 "value": 36.19440607918944
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.15
             },
             "weights": [
@@ -797,7 +797,7 @@
                 "value": 40.040331955739234
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.11
             },
             "weights": [
@@ -843,7 +843,7 @@
                 "value": 43.959896013864814
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.1
             },
             "weights": [
@@ -889,7 +889,7 @@
                 "value": 38.88818557525663
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.15
             },
             "weights": [
@@ -935,7 +935,7 @@
                 "value": 36.87788428209572
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.17
             },
             "weights": [
@@ -981,7 +981,7 @@
                 "value": 34.25257832289028
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.21
             },
             "weights": [
@@ -1027,7 +1027,7 @@
                 "value": 30.595437941607784
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.12
             },
             "weights": [
@@ -1073,7 +1073,7 @@
                 "value": 27.966837754966004
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.14
             },
             "weights": [
@@ -1119,7 +1119,7 @@
                 "value": 23.93072390347954
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.15
             },
             "weights": [
@@ -1165,7 +1165,7 @@
                 "value": 21.25322490334622
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.12
             },
             "weights": [
@@ -1211,7 +1211,7 @@
                 "value": 17.222195707239035
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.13
             },
             "weights": [
@@ -1257,7 +1257,7 @@
                 "value": 14.55571523796827
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.15
             },
             "weights": [
@@ -1303,7 +1303,7 @@
                 "value": 11.897684308758832
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.16
             },
             "weights": [
@@ -1349,7 +1349,7 @@
                 "value": 9.3137981602453
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.16
             },
             "weights": [
@@ -1395,7 +1395,7 @@
                 "value": 5.389865351286495
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.17
             },
             "weights": [
@@ -1441,7 +1441,7 @@
                 "value": 1.9640327956272496
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.12
             },
             "weights": [
@@ -1487,7 +1487,7 @@
                 "value": 1.1926529796027197
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.11
             },
             "weights": [
@@ -1549,7 +1549,7 @@
         },
         "filename": "061615v1.GIs~",
         "heating_rate": {
-            "unit": "\u00b0C/min",
+            "unit": "C/min",
             "value": 1.0
         },
         "max_time": {
@@ -1607,7 +1607,7 @@
         "temperature": {
             "drying": 110.0,
             "run": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.0
             }
         }

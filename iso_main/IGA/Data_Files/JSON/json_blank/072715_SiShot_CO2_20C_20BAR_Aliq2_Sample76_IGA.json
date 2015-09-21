@@ -1,0 +1,1235 @@
+{
+    "content": [
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.00359
+            },
+            "index": 1,
+            "pressure": {
+                "unit": "bar",
+                "value": 0.001211719
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 19.989
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 99.24905
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.015802
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.00153
+            },
+            "index": 2,
+            "pressure": {
+                "unit": "bar",
+                "value": 0.5081481
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.084
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 99.20631
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.006733
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.00352
+            },
+            "index": 3,
+            "pressure": {
+                "unit": "bar",
+                "value": 0.7067303
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.003
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 99.20177
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.015503
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.00333
+            },
+            "index": 4,
+            "pressure": {
+                "unit": "bar",
+                "value": 0.8533227000000001
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.008
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 99.19115
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.014638
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.00492
+            },
+            "index": 5,
+            "pressure": {
+                "unit": "bar",
+                "value": 1.534846
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.032
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 99.15272
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.021659
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.00832
+            },
+            "index": 6,
+            "pressure": {
+                "unit": "bar",
+                "value": 2.533687
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.013
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 99.10094
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.036618
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.01115
+            },
+            "index": 7,
+            "pressure": {
+                "unit": "bar",
+                "value": 3.5141869999999997
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.008
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 99.04784
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.049086
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.01416
+            },
+            "index": 8,
+            "pressure": {
+                "unit": "bar",
+                "value": 4.519372000000001
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.022
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.99383
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.062319
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.01782
+            },
+            "index": 9,
+            "pressure": {
+                "unit": "bar",
+                "value": 5.472291
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.022
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.94602
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.07842
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.02161
+            },
+            "index": 10,
+            "pressure": {
+                "unit": "bar",
+                "value": 6.489197
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 19.989
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.89436
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.095095
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.0248
+            },
+            "index": 11,
+            "pressure": {
+                "unit": "bar",
+                "value": 7.477145
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 19.998
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.84205
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.109125
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.02926
+            },
+            "index": 12,
+            "pressure": {
+                "unit": "bar",
+                "value": 8.476537
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.022
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.79443
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.12878
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.03183
+            },
+            "index": 13,
+            "pressure": {
+                "unit": "bar",
+                "value": 9.462415
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.013
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.73943
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.140082
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.03483
+            },
+            "index": 14,
+            "pressure": {
+                "unit": "bar",
+                "value": 10.45519
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.051
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.68591
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.153301
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.03743
+            },
+            "index": 15,
+            "pressure": {
+                "unit": "bar",
+                "value": 11.45265
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.003
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.63
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.164739
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.04105
+            },
+            "index": 16,
+            "pressure": {
+                "unit": "bar",
+                "value": 12.43618
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.027
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.57955
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.180664
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.044
+            },
+            "index": 17,
+            "pressure": {
+                "unit": "bar",
+                "value": 13.430200000000001
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.032
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.52544
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.193661
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.04668
+            },
+            "index": 18,
+            "pressure": {
+                "unit": "bar",
+                "value": 14.42063
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.013
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.47019
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.205416
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.04833
+            },
+            "index": 19,
+            "pressure": {
+                "unit": "bar",
+                "value": 15.41644
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.022
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.41044
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.212716
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.0511
+            },
+            "index": 20,
+            "pressure": {
+                "unit": "bar",
+                "value": 16.41224
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.051
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.35539
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.224886
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.05312
+            },
+            "index": 21,
+            "pressure": {
+                "unit": "bar",
+                "value": 17.40888
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.041
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.2969
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.233788
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.05437
+            },
+            "index": 22,
+            "pressure": {
+                "unit": "bar",
+                "value": 18.40565
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.036
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.23517
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.239287
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.05524
+            },
+            "index": 23,
+            "pressure": {
+                "unit": "bar",
+                "value": 19.40256
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.008
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.17162
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.243086
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.05524
+            },
+            "index": 24,
+            "pressure": {
+                "unit": "bar",
+                "value": 19.40256
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.008
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.17162
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.243086
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.05482
+            },
+            "index": 25,
+            "pressure": {
+                "unit": "bar",
+                "value": 18.52383
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.013
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.22891
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.241236
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.05549
+            },
+            "index": 26,
+            "pressure": {
+                "unit": "bar",
+                "value": 17.53809
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.027
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.298
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.244186
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.05429
+            },
+            "index": 27,
+            "pressure": {
+                "unit": "bar",
+                "value": 16.5347
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.008
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.36028
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.238943
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.05066
+            },
+            "index": 28,
+            "pressure": {
+                "unit": "bar",
+                "value": 15.54758
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 19.984
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.41119
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.222967
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.05007
+            },
+            "index": 29,
+            "pressure": {
+                "unit": "bar",
+                "value": 14.54364
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 19.97
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.47601
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.220349
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.04606
+            },
+            "index": 30,
+            "pressure": {
+                "unit": "bar",
+                "value": 13.54949
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.003
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.52599
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.202726
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.04398
+            },
+            "index": 31,
+            "pressure": {
+                "unit": "bar",
+                "value": 12.549959999999999
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.008
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.58424
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.193553
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.04184
+            },
+            "index": 32,
+            "pressure": {
+                "unit": "bar",
+                "value": 11.56118
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.003
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.64142
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.184134
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.03836
+            },
+            "index": 33,
+            "pressure": {
+                "unit": "bar",
+                "value": 10.57337
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.003
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.69283
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.168832
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.03544
+            },
+            "index": 34,
+            "pressure": {
+                "unit": "bar",
+                "value": 9.58115
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.008
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.74682
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.155947
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.03251
+            },
+            "index": 35,
+            "pressure": {
+                "unit": "bar",
+                "value": 8.591963
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 19.994
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.80051
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.143079
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.02924
+            },
+            "index": 36,
+            "pressure": {
+                "unit": "bar",
+                "value": 7.609946
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.013
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.85226
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.128698
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.02622
+            },
+            "index": 37,
+            "pressure": {
+                "unit": "bar",
+                "value": 6.611795
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.036
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.90607
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.115384
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.02325
+            },
+            "index": 38,
+            "pressure": {
+                "unit": "bar",
+                "value": 5.614746
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.013
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 98.9599
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.102337
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.02107
+            },
+            "index": 39,
+            "pressure": {
+                "unit": "bar",
+                "value": 4.644313
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.036
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 99.01534
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.092718
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.01756
+            },
+            "index": 40,
+            "pressure": {
+                "unit": "bar",
+                "value": 3.614443
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.008
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 99.06889
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.077285
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.01336
+            },
+            "index": 41,
+            "pressure": {
+                "unit": "bar",
+                "value": 2.618636
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 19.979
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 99.11709
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.058779
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.0099
+            },
+            "index": 42,
+            "pressure": {
+                "unit": "bar",
+                "value": 1.616348
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.003
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 99.16891
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.043553
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.00655
+            },
+            "index": 43,
+            "pressure": {
+                "unit": "bar",
+                "value": 0.9282047
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.036
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 99.2002
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.02881
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.00635
+            },
+            "index": 44,
+            "pressure": {
+                "unit": "bar",
+                "value": 0.7799575
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.022
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 99.20924
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.027962
+                }
+            ]
+        },
+        {
+            "concentration": {
+                "unit": "mmol/g",
+                "value": 0.0061
+            },
+            "index": 45,
+            "pressure": {
+                "unit": "bar",
+                "value": 0.6573606999999999
+            },
+            "sample_temp": {
+                "unit": "C",
+                "value": 20.013
+            },
+            "weights": [
+                {
+                    "prefix": "",
+                    "unit": "mg",
+                    "value": 99.21632
+                },
+                {
+                    "prefix": "",
+                    "unit": "%% chg",
+                    "value": 0.026864
+                }
+            ]
+        }
+    ],
+    "dataset": "072715_SiShot_CO2_20C_20BAR_Aliq2_Sample76.xlsx",
+    "header": {
+        "absorbate": "CO2",
+        "experiment": {
+            "id": "",
+            "name": "CO2 Aliq2 Sample76",
+            "started": "072715"
+        },
+        "filename": "072715_SiShot_CO2_20C_20BAR_Aliq2_Sample76",
+        "notes": "",
+        "operator": "",
+        "sample": {
+            "lot": "Sample76 with 20C",
+            "name": "SiShot pressure up to 20BAR"
+        }
+    }
+}

@@ -15,7 +15,7 @@
                 "value": 0.0001826423143580856
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 19.74
             },
             "weights": [
@@ -61,7 +61,7 @@
                 "value": 0.4032449006799093
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.16
             },
             "weights": [
@@ -88,7 +88,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 5.670800714531781
+                    "value": 5.329893570040567
                 }
             ]
         },
@@ -107,7 +107,7 @@
                 "value": 0.6687468337554993
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.15
             },
             "weights": [
@@ -134,7 +134,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 7.121539440476239
+                    "value": 6.598962387755449
                 }
             ]
         },
@@ -153,7 +153,7 @@
                 "value": 0.9354166111185175
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.14
             },
             "weights": [
@@ -180,7 +180,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 8.069108676983605
+                    "value": 7.410156638475214
                 }
             ]
         },
@@ -199,7 +199,7 @@
                 "value": 1.3178136248500198
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.14
             },
             "weights": [
@@ -226,7 +226,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 9.190300085380487
+                    "value": 8.352995412535847
                 }
             ]
         },
@@ -245,7 +245,7 @@
                 "value": 1.8316611118517532
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.17
             },
             "weights": [
@@ -272,7 +272,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 9.919870969024918
+                    "value": 8.957080132361611
                 }
             ]
         },
@@ -291,7 +291,7 @@
                 "value": 3.3513211571790427
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.15
             },
             "weights": [
@@ -318,7 +318,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 11.135134734876255
+                    "value": 9.947623541292074
                 }
             ]
         },
@@ -337,7 +337,7 @@
                 "value": 6.7104279429409415
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 19.7
             },
             "weights": [
@@ -364,7 +364,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 12.393269219288308
+                    "value": 10.95346857812109
                 }
             ]
         },
@@ -383,7 +383,7 @@
                 "value": 9.977173710171977
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.19
             },
             "weights": [
@@ -410,7 +410,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 12.98149497773707
+                    "value": 11.417201142579287
                 }
             ]
         },
@@ -429,7 +429,7 @@
                 "value": 13.232655645913878
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.18
             },
             "weights": [
@@ -456,7 +456,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 13.397224266735003
+                    "value": 11.742516256270191
                 }
             ]
         },
@@ -475,7 +475,7 @@
                 "value": 16.566727103052926
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.21
             },
             "weights": [
@@ -502,7 +502,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 13.693113063617572
+                    "value": 11.972852314748566
                 }
             ]
         },
@@ -521,7 +521,7 @@
                 "value": 19.846405812558327
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.2
             },
             "weights": [
@@ -548,7 +548,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 13.913983648406361
+                    "value": 12.144147390196709
                 }
             ]
         },
@@ -567,7 +567,7 @@
                 "value": 23.186408478869485
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.19
             },
             "weights": [
@@ -594,7 +594,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 14.068747345269845
+                    "value": 12.263849412487302
                 }
             ]
         },
@@ -613,7 +613,7 @@
                 "value": 26.511406479136113
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.15
             },
             "weights": [
@@ -640,7 +640,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 14.196693280533957
+                    "value": 12.362608973919778
                 }
             ]
         },
@@ -659,7 +659,7 @@
                 "value": 29.86057725636582
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.21
             },
             "weights": [
@@ -686,7 +686,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 14.2622872344156
+                    "value": 12.413170035886978
                 }
             ]
         },
@@ -705,7 +705,7 @@
                 "value": 33.57084255432609
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.19
             },
             "weights": [
@@ -732,7 +732,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 14.286814284723718
+                    "value": 12.432063812080074
                 }
             ]
         },
@@ -751,7 +751,7 @@
                 "value": 36.20707905612585
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.21
             },
             "weights": [
@@ -778,7 +778,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 14.267202274668843
+                    "value": 12.416956738321062
                 }
             ]
         },
@@ -797,7 +797,7 @@
                 "value": 40.073622183708835
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.18
             },
             "weights": [
@@ -824,7 +824,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 14.158040430752868
+                    "value": 12.332792456389498
                 }
             ]
         },
@@ -843,7 +843,7 @@
                 "value": 43.97002799626716
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.17
             },
             "weights": [
@@ -870,7 +870,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 13.930557927109303
+                    "value": 12.156979499170575
                 }
             ]
         },
@@ -889,7 +889,7 @@
                 "value": 38.88880415944541
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.2
             },
             "weights": [
@@ -916,7 +916,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 14.210898962077962
+                    "value": 12.373562995562963
                 }
             ]
         },
@@ -935,7 +935,7 @@
                 "value": 36.87873750166644
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.23
             },
             "weights": [
@@ -962,7 +962,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 14.250489118389309
+                    "value": 12.40407931188885
                 }
             ]
         },
@@ -981,7 +981,7 @@
                 "value": 34.28088121583789
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.18
             },
             "weights": [
@@ -1008,7 +1008,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 14.323604957034773
+                    "value": 12.460392184672829
                 }
             ]
         },
@@ -1027,7 +1027,7 @@
                 "value": 30.606011198506863
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.15
             },
             "weights": [
@@ -1054,7 +1054,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 14.301449918894768
+                    "value": 12.443334849803122
                 }
             ]
         },
@@ -1073,7 +1073,7 @@
                 "value": 27.965031329156112
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.18
             },
             "weights": [
@@ -1100,7 +1100,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 14.25113003603137
+                    "value": 12.404573193163314
                 }
             ]
         },
@@ -1119,7 +1119,7 @@
                 "value": 23.96209972003733
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.18
             },
             "weights": [
@@ -1146,7 +1146,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 14.143487966491318
+                    "value": 12.321562527895779
                 }
             ]
         },
@@ -1165,7 +1165,7 @@
                 "value": 21.344254099453405
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.17
             },
             "weights": [
@@ -1192,7 +1192,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 14.032127397391369
+                    "value": 12.235549712912189
                 }
             ]
         },
@@ -1211,7 +1211,7 @@
                 "value": 17.343026263164912
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.19
             },
             "weights": [
@@ -1238,7 +1238,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 13.78400428954089
+                    "value": 12.043408700979485
                 }
             ]
         },
@@ -1257,7 +1257,7 @@
                 "value": 14.57080389281429
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.16
             },
             "weights": [
@@ -1284,7 +1284,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 13.552396636234539
+                    "value": 11.863434532620404
                 }
             ]
         },
@@ -1303,7 +1303,7 @@
                 "value": 11.936923076923078
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.21
             },
             "weights": [
@@ -1330,7 +1330,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 13.256524390776411
+                    "value": 11.632638544598208
                 }
             ]
         },
@@ -1349,7 +1349,7 @@
                 "value": 9.304074123450206
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.14
             },
             "weights": [
@@ -1376,7 +1376,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 12.869719474612078
+                    "value": 11.329394301245744
                 }
             ]
         },
@@ -1395,7 +1395,7 @@
                 "value": 5.38385281962405
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.18
             },
             "weights": [
@@ -1422,7 +1422,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 11.974547221966015
+                    "value": 10.620859830936851
                 }
             ]
         },
@@ -1441,7 +1441,7 @@
                 "value": 1.9653432875616583
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.12
             },
             "weights": [
@@ -1468,7 +1468,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 10.033952768659763
+                    "value": 9.050889341430278
                 }
             ]
         },
@@ -1487,7 +1487,7 @@
                 "value": 1.1959325423276896
             },
             "sample_temp": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.15
             },
             "weights": [
@@ -1514,7 +1514,7 @@
                 {
                     "prefix": "",
                     "unit": "mass change(mg)",
-                    "value": 8.930977480513647
+                    "value": 8.13651117991256
                 }
             ]
         }
@@ -1549,7 +1549,7 @@
         },
         "filename": "060915v1.GIs~",
         "heating_rate": {
-            "unit": "\u00b0C/min",
+            "unit": "C/min",
             "value": 1.0
         },
         "max_time": {
@@ -1607,7 +1607,7 @@
         "temperature": {
             "drying": 110.0,
             "run": {
-                "unit": "\u00b0C",
+                "unit": "C",
                 "value": 20.0
             }
         }

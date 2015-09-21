@@ -21,9 +21,10 @@ import random
 
 class TGA_Plot: 
 
-	def __init__(self):
+	def __init__(self, analyse):
 	 
 		self.plotIni = "TGininstance"
+		self.analyse = analyse
 
 	def htmlcolor(self, r, g, b):
 	    def _chkarg(a):
@@ -46,6 +47,371 @@ class TGA_Plot:
 	    g = _chkarg(g)
 	    b = _chkarg(b)
 	    return '#{:02x}{:02x}{:02x}'.format(r,g,b)
+
+	def rawPlot(self):
+
+		#Blank First
+		for experiment in self.analyse.blanks:
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["raw_runs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["ads"][0], run["ads"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Blank_%s_Ads_Run_%s'%(experiment["name"], run["sheet"]))
+			
+			plt.axis([0, 45, 0, 1.2])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Blank_plots/Many_plots/Adsorption/Raw_Runs_Ads_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["raw_runs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["des"][0], run["des"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Blank_%s_Des_Run_%s'%(experiment["name"], run["sheet"]))
+			
+			plt.axis([0, 45, 0, 1.2])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Blank_plots/Many_plots/Desorption/Raw_Runs_Des_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+		# Aliqs next
+		for experiment in self.analyse.aliqs:
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["raw_runs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["ads"][0], run["ads"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Aliq_%s_Ads_Run_%s'%(experiment["name"], run["sheet"]))
+			
+			plt.axis([0, 45, 0, 20])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Aliq_plots/Many_plots/Adsorption/Raw_Runs_Ads_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["raw_runs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["des"][0], run["des"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Aliq_%s_Des_Run_%s'%(experiment["name"], run["sheet"]))
+			
+			plt.axis([0, 45, 0, 20])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Aliq_plots/Many_plots/Desorption/Raw_Runs_Des_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+	def alignedPlot(self):
+
+		#Blank First
+		for experiment in self.analyse.blanks:
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["aligned_runs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["ads"][0], run["ads"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Blank_%s_Ads_Run_%s'%(experiment["name"], run["sheet"]))
+			
+			plt.axis([0, 45, 0, 1.2])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Blank_plots/Many_plots/Adsorption/Aligned_Runs_Ads_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["aligned_runs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["des"][0], run["des"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Blank_%s_Des_Run_%s'%(experiment["name"], run["sheet"]))
+			
+			plt.axis([0, 45, 0, 1.2])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Blank_plots/Many_plots/Desorption/Aligned_Runs_Des_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+		# Aliqs next
+		for experiment in self.analyse.aliqs:
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["aligned_runs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["ads"][0], run["ads"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Aliq_%s_Ads_Run_%s'%(experiment["name"], run["sheet"]))
+			
+			plt.axis([0, 45, 0, 20])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Aliq_plots/Many_plots/Adsorption/Aligned_Runs_Ads_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["aligned_runs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["des"][0], run["des"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Aliq_%s_Des_Run_%s'%(experiment["name"], run["sheet"]))
+			
+			plt.axis([0, 45, 0, 20])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Aliq_plots/Many_plots/Desorption/Aligned_Runs_Des_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+
+	def rawDiffPlot(self):
+
+		#Blank First
+		for experiment in self.analyse.blanks:
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["raw_diffs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["ads"][0], run["ads"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Blank_%s_Ads_Diff_%s-%s'%(experiment["name"], run["i"], run["j"]))
+			
+			plt.axis([0, 45, 0, 0.3])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Blank_plots/Diff_plots/Adsorption/Raw_Diffs_Ads_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["raw_diffs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["des"][0], run["des"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Blank_%s_Des_Diff_%s-%s'%(experiment["name"], run["i"], run["j"]))
+			
+			plt.axis([0, 45, 0, 0.3])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Blank_plots/Diff_plots/Desorption/Raw_Diffs_Des_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+		# Aliqs next
+		for experiment in self.analyse.aliqs:
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["raw_diffs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["ads"][0], run["ads"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Aliq_%s_Ads_Diff_%s-%s'%(experiment["name"], run["i"], run["j"]))
+			
+			plt.axis([0, 45, 0, 0.3])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Aliq_plots/Diff_plots/Adsorption/Raw_Diffs_Ads_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["raw_diffs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["des"][0], run["des"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Aliq_%s_Des_Diff_%s-%s'%(experiment["name"], run["i"], run["j"]))
+			
+			plt.axis([0, 45, 0, 0.3])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Aliq_plots/Diff_plots/Desorption/Raw_Diffs_Des_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+	def alignedDiffPlot(self):
+
+		#Blank First
+		for experiment in self.analyse.blanks:
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["aligned_diffs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["ads"][0], run["ads"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Blank_%s_Ads_Diff_%s-%s'%(experiment["name"], run["i"], run["j"]))
+			
+			plt.axis([0, 45, 0, 0.3])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Blank_plots/Diff_plots/Adsorption/Aligned_Diffs_Ads_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["aligned_diffs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["des"][0], run["des"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Blank_%s_Des_Diff_%s-%s'%(experiment["name"], run["i"], run["j"]))
+			
+			plt.axis([0, 45, 0, 0.3])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Blank_plots/Diff_plots/Desorption/Aligned_Diffs_Des_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+		# Aliqs next
+		for experiment in self.analyse.aliqs:
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["aligned_diffs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["ads"][0], run["ads"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Aliq_%s_Ads_Diff_%s-%s'%(experiment["name"], run["i"], run["j"]))
+			
+			plt.axis([0, 45, 0, 0.3])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Aliq_plots/Diff_plots/Adsorption/Aligned_Diffs_Ads_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			for run in experiment["aligned_diffs"]:
+				self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+				plt.plot(run["des"][0], run["des"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+				legend.append('Aliq_%s_Des_Diff_%s-%s'%(experiment["name"], run["i"], run["j"]))
+			
+			plt.axis([0, 45, 0, 0.3])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Aliq_plots/Diff_plots/Desorption/Aligned_Diffs_Des_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+	def alignedAveragePlot(self):
+
+		#Blank First
+		for experiment in self.analyse.blanks:
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			run =  experiment["aligned_average"]
+
+			self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+			plt.plot(run["ads"][0], run["ads"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+			legend.append('Blank_Ads_Average_%s-%s'%(experiment["name"], experiment["element"]))
+
+			self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+			plt.plot(run["des"][0], run["des"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+			legend.append('Blank_Des_Average_%s-%s'%(experiment["name"], experiment["element"]))
+			
+			plt.axis([0, 45, 0, 0.3])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Blank_plots/Simple_plots/Aligned_Average_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
+
+		# Aliqs next
+		for experiment in self.analyse.aliqs:
+			fig = plt.figure()
+			ax = fig.add_subplot(111)
+			legend = []
+			run =  experiment["aligned_average"]
+
+			self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+			plt.plot(run["ads"][0], run["ads"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+			legend.append('Aliq_Ads_Average_%s-%s'%(experiment["name"], experiment["element"]))
+
+			self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+			plt.plot(run["des"][0], run["des"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
+			legend.append('Aliq_Des_Average_%s-%s'%(experiment["name"], experiment["element"]))
+			
+			plt.axis([0, 45, 0, 0.3])
+			plt.xlabel('Pressure (Bar)')
+			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.grid(b=True, which='major', color='k', linestyle='-')
+			plt.legend(legend, loc = 2, fontsize = 10)
+
+			self.ads_blankManyPath = '%s/TGA/TGA_plots/Aliq_plots/Simple_plots/Aligned_Average_plot_%s_%s.png'%(os.getcwd(), experiment["name"], experiment["element"])
+			plt.savefig('%s'%self.ads_blankManyPath)
+			plt.close()
 
 ######################################### Many_plot Functions #########################################
 

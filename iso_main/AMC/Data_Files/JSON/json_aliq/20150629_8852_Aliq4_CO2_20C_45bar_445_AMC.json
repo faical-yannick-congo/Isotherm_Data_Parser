@@ -1,0 +1,1428 @@
+{
+    "content": {
+        "ads": [
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": -4.545454545454545e-07
+                },
+                "index": 0,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 0.0007112161313202959
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.741793
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 0.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 0.989
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": -1.2999999999999999e-08
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 1.6870672727272726
+                },
+                "index": 1,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 0.549804032830074
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.931243
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 1.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 2033.982
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.053884861
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.425255681818182
+                },
+                "index": 2,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 1.897188164960989
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.912245
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 2.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 4013.987
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.077462571
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.682609318181818
+                },
+                "index": 3,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 3.6127500253318474
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.684701
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 3.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 5996.021
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.08568244
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.799411818181818
+                },
+                "index": 4,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 5.446467727226669
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.670325
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 4.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 7981.999
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.08941310400000001
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.8617036363636363
+                },
+                "index": 5,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 7.357826527510387
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.459833
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 5.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 9896.996
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.091402702
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.8880929545454546
+                },
+                "index": 6,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 9.312527105076503
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.573756
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 6.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 11883.994
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.092245575
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.9022175
+                },
+                "index": 7,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 11.329101226061404
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.799244
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 7.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 13946.997
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.09269671099999999
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.8932625
+                },
+                "index": 8,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 13.291397304691458
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.488468
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 8.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 15991.987
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.09241069299999999
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.881625227272727
+                },
+                "index": 9,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 15.245435201134866
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.781463
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 9.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 17970.014
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.092038995
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.864766590909091
+                },
+                "index": 10,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 17.253977100010133
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.568879
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 10.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 19956.991
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.09150053200000001
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.842432272727273
+                },
+                "index": 11,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 19.332333569763907
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.753228
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 11.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 21935.988
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.090787179
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.8135143181818183
+                },
+                "index": 12,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 21.653359002938497
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.865029
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 12.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 23990.988
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.08986354
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.785048636363636
+                },
+                "index": 13,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 23.693869692978012
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.720363
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 13.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 25914.981
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.088954345
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.7554540909090908
+                },
+                "index": 14,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 25.613780524875875
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.779797
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 14.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 27900.983
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.088009093
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.724931136363636
+                },
+                "index": 15,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 27.31324348971527
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.653278
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 15.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 29824.0
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.08703419100000001
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.701201818181818
+                },
+                "index": 16,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 29.455770594791773
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.774906
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 16.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 31751.989
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.086276282
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.6698927272727278
+                },
+                "index": 17,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 31.292430844057147
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.721573
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 17.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 33736.01
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.085276273
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.652502727272727
+                },
+                "index": 18,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 33.204113891985
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.833611
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 18.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 35719.994
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.084720835
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.6300261363636364
+                },
+                "index": 19,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 34.97914682338636
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.803739
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 19.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 37637.0
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.08400293
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.611602727272727
+                },
+                "index": 20,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 37.12998277434391
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.895952
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 20.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 39628.99
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.08341449
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.587096590909091
+                },
+                "index": 21,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 39.327733306312695
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.494866
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 21.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 41553.988
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.082631766
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.606275681818182
+                },
+                "index": 22,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 41.40508663491742
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.714276
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 22.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 43660.009
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.083244345
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.5955540909090913
+                },
+                "index": 23,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 43.46562974972135
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.674038
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 23.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 45643.991
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.08290189499999999
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.6350597727272724
+                },
+                "index": 24,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 45.579177221603
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.466937
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 24.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 47596.987
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.08416370399999999
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.7329963636363632
+                },
+                "index": 25,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 47.416607559023205
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.924936
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 25.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 49517.976
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.087291797
+                }
+            }
+        ],
+        "des": [
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.733805227272727
+                },
+                "index": 0,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 47.40962610193535
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.627636
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 0.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 0.982
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.087317633
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.754272727272727
+                },
+                "index": 1,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 45.4520822778397
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.676806
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 1.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 1979.981
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.087971367
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.743338181818182
+                },
+                "index": 2,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 43.461292937481005
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.814539
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 2.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 4038.98
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.087622112
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.7670713636363637
+                },
+                "index": 3,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 41.40105380484345
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.601894
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 3.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 6018.984
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.088380151
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.7794063636363635
+                },
+                "index": 4,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 39.27144594183808
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.501934
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 4.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 8005.997
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.088774133
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.8101465909090906
+                },
+                "index": 5,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 37.110983888945185
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.586795
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 5.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 9999.99
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.089755973
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.8501270454545455
+                },
+                "index": 6,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 35.21265579086027
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.865348
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 6.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 12098.004
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.09103294599999999
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.8987404545454543
+                },
+                "index": 7,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 33.1418887425271
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.896958
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 7.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 14168.982
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.092585658
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.9419993181818183
+                },
+                "index": 8,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 31.016171851251393
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.92183
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 8.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 16149.99
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.09396734600000001
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.963877727272727
+                },
+                "index": 9,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 28.868254129091092
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.621159
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 9.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 18131.984
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.094666141
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 3.0170725000000003
+                },
+                "index": 10,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 26.66157665416962
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.818466
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 10.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 20125.983
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.096365178
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 3.0560050000000003
+                },
+                "index": 11,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 24.591002127875164
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.776283
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 11.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 22229.981
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.09760868
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 3.076065227272727
+                },
+                "index": 12,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 22.501094335798967
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.478372
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 12.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 24221.988
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.098249403
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 3.118543181818182
+                },
+                "index": 13,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 20.342608166987535
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.757627
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 13.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 26223.991
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.09960614599999999
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 3.1487818181818183
+                },
+                "index": 14,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 18.120174283108724
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.671735
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 14.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 28226.983
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.100571965
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 3.1743159090909088
+                },
+                "index": 15,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 16.046661262539264
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.828632
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 15.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 30308.981
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.10138752599999999
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 3.1933763636363635
+                },
+                "index": 16,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 13.835971223021582
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.750387
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 16.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 32307.997
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.101996317
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 3.1999165909090905
+                },
+                "index": 17,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 11.660239132637553
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.65464
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 17.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 34341.987
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.102205214
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 3.1897775
+                },
+                "index": 18,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 9.423144188874254
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.740127
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 18.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 36342.989
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.101881367
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 3.1588079545454546
+                },
+                "index": 19,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 7.245951970817712
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.846611
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 19.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 38382.988
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.1008922
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 3.0906670454545453
+                },
+                "index": 20,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 5.2451636437329014
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.7883
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 20.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 40346.981
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.098715788
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.962123863636364
+                },
+                "index": 21,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 3.4066561961698247
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.681813
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 21.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 42372.981
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.094610121
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.7185702272727275
+                },
+                "index": 22,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 1.8709271456074577
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.779355
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 22.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 44260.981
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.086831027
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.5860325
+                },
+                "index": 23,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 1.4370989968588508
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.887258
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 23.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 46144.985
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.082597776
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.452281590909091
+                },
+                "index": 24,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 1.1292238322018442
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.762771
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 24.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 48030.986
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.07832578
+                }
+            },
+            {
+                "concentration": {
+                    "unit": "mmol/g",
+                    "value": 2.3223688636363637
+                },
+                "index": 25,
+                "pressure": {
+                    "unit": "bar",
+                    "value": 0.9074962002229202
+                },
+                "sample_temp": {
+                    "unit": "C",
+                    "value": 19.669144
+                },
+                "serial": {
+                    "unit": "",
+                    "value": 25.0
+                },
+                "time": {
+                    "unit": "s (seconds)",
+                    "value": 49916.992
+                },
+                "volume": {
+                    "unit": "L",
+                    "value": 0.074176373
+                }
+            }
+        ]
+    },
+    "dataset": "20150629_8852_Aliq4_CO2_20C_45bar_445_AMC.xlsx",
+    "header": {
+        "absorbate": "CO2",
+        "experiment": {
+            "id": 445,
+            "name": "8852 CO2 Aliq4",
+            "started": "20150629"
+        },
+        "filename": "20150629_8852_Aliq4_CO2_20C_45bar_445_AMC",
+        "notes": "",
+        "operator": "",
+        "sample": {
+            "lot": "8852_Aliq4_CO2 with 20C",
+            "name": "8852 pressure up to 20C"
+        }
+    }
+}

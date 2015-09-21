@@ -89,20 +89,26 @@ class TGA_Plot:
 		plt.close()
 
 	def ads_blankManyPlot(self, manyList, label='unknown', xmin = 0, ymin = 0, xmax = 45, ymax = 1.2):
-		
-		self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+
+		# self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
 
 		fig = plt.figure()
 		ax = fig.add_subplot(111)
+		legend = []
 		for num in manyList:
-			# index = manyList.index(num)
+			self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+			index = manyList.index(num)
 			plt.plot(num[0], num[1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
-			# plt.legend(['Line Number: %s'%index], loc = 2)
+			if index == len(manyList)-1:
+				legend.append('Blank_Ads_Average')
+			else:
+				legend.append('Blank_%s_Ads_Run'%index)
 		
 		plt.axis([xmin, xmax, ymin, ymax])
 		plt.xlabel('Pressure (Bar)')
 		plt.ylabel('Uptake (\delta Mass (mg)')
 		plt.grid(b=True, which='major', color='k', linestyle='-')
+		plt.legend(legend, loc = 2, fontsize = 10)
 
 		self.ads_blankManyPath = '%s/TGA/TGA_plots/Blank_plots/Many_plots/Adsorption/many_plot_%s.png'%(os.getcwd(), label)
 		plt.savefig('%s'%self.ads_blankManyPath)
@@ -110,19 +116,25 @@ class TGA_Plot:
 
 	def des_blankManyPlot(self, manyList, label='unknown', xmin = 0, ymin = 0, xmax = 45, ymax = 1.2):
 		
-		self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
+		# self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
 
 		fig = plt.figure()
 		ax = fig.add_subplot(111)
+		legend = []
 		for num in manyList:
+			self.color1 = self.htmlcolor(random.randint(0,255), random.randint(0,255), random.randint(0,255))
 			index = manyList.index(num)
 			plt.plot(num[0], num[1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
-			# plt.legend(['Line Number: %s'%index], loc = 2)
+			if index == len(manyList)-1:
+				legend.append('Blank_Des_Average')
+			else:
+				legend.append('Blank_%s_Des_Run'%index)
 		
 		plt.axis([xmin, xmax, ymin, ymax])
 		plt.xlabel('Pressure (Bar)')
 		plt.ylabel('Uptake (\delta Mass (mg)')
 		plt.grid(b=True, which='major', color='k', linestyle='-')
+		plt.legend(legend, loc = 2, fontsize = 10)
 
 		self.des_blankManyPath = '%s/TGA/TGA_plots/Blank_plots/Many_plots/Desorption/many_plot_%s.png'%(os.getcwd(), label)
 		plt.savefig('%s'%self.des_blankManyPath)
@@ -151,7 +163,7 @@ class TGA_Plot:
 		plt.ylabel('Uptake (\delta Mass (mg)')
 		plt.legend([legendOne, legendTwo, legendDiff], loc = 2, fontsize = 10)
 
-		self.des_blankDiffPath = '%s/TGA/TGA_plots/Blank_plots/Diff_plots/Desorption/diff_plot_%s_%d.png'\
+		self.des_blankDiffPath = '%s/TGA/TGA_plots/Blank_plots/Diff_plots/Desorption/diff_plot_%s_%s.png'\
 					 	 			  %(os.getcwd(), label, index)
 		plt.savefig('%s'%self.des_blankDiffPath)	
 		plt.close()			

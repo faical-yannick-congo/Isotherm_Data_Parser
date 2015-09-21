@@ -18,29 +18,29 @@ if __name__ == '__main__':
 
 # w/ blank subtraction 
 
-plot.aliqSimplePlot(analyse.ADS_aliqBlank1_list, analyse.DES_aliqBlank1_list, 'aliq2_blank1_corr', 'Adsorption',\
-													'Desorption', xmax = 45, ymax = 20, yAxisLabel = 'delta mass (mg)')
+# plot.aliqSimplePlot(analyse.ADS_aliqBlank1_list, analyse.DES_aliqBlank1_list, 'aliq2_blank1_corr', 'Adsorption',\
+# 													'Desorption', xmax = 45, ymax = 20, yAxisLabel = 'delta mass (mg)')
 
-plot.aliqSimplePlot(analyse.ADS_aliqBlank2_list, analyse.DES_aliqBlank2_list, 'aliq2_blank2_corr', 'Adsorption',\
-													'Desorption', xmax = 45, ymax = 20, yAxisLabel = 'delta mass (mg)')
+# plot.aliqSimplePlot(analyse.ADS_aliqBlank2_list, analyse.DES_aliqBlank2_list, 'aliq2_blank2_corr', 'Adsorption',\
+# 													'Desorption', xmax = 45, ymax = 20, yAxisLabel = 'delta mass (mg)')
 
 
-# w/o blank subtraction 
+# # w/o blank subtraction 
 
-plot.aliqSimplePlot(analyse.ADS_aliqRaw_list, analyse.DES_aliqRaw_list, 'aliq2_raw', 'Adsorption',\
-													'Desorption', xmax = 45, ymax = 20, yAxisLabel = 'delta mass (mg)')
+# plot.aliqSimplePlot(analyse.ADS_aliqRaw_list, analyse.DES_aliqRaw_list, 'aliq2_raw', 'Adsorption',\
+# 													'Desorption', xmax = 45, ymax = 20, yAxisLabel = 'delta mass (mg)')
 
-############################################# Many plots #############################################
+# ############################################# Many plots #############################################
 
-# compare aliq difference between raw, corected1, and corrected2
+# # compare aliq difference between raw, corected1, and corrected2
 
-plot.ads_aliqDiffPlot(analyse.ADSaliqBlank_compareAll_list[0], analyse.ADSaliqBlank_compareAll_list[1],\
-					  analyse.ADSaliqBlank_compareAll_list[2], 'ADSraw_blank_comparison', 0, 'aliqRaw_aliqBlank1_diff',\
-					  'aliqRaw_aliqBlank2_diff', 'aliqBlank1_aliqBlank2_diff', xmax = 45, ymin = -0.03, ymax = 0.10)
+# plot.ads_aliqDiffPlot(analyse.ADSaliqBlank_compareAll_list[0], analyse.ADSaliqBlank_compareAll_list[1],\
+# 					  analyse.ADSaliqBlank_compareAll_list[2], 'ADSraw_blank_comparison', 0, 'aliqRaw_aliqBlank1_diff',\
+# 					  'aliqRaw_aliqBlank2_diff', 'aliqBlank1_aliqBlank2_diff', xmax = 45, ymin = -0.03, ymax = 0.10)
 
-plot.des_aliqDiffPlot(analyse.DESaliqBlank_compareAll_list[0], analyse.DESaliqBlank_compareAll_list[1],\
-					  analyse.DESaliqBlank_compareAll_list[2], 'DESraw_blank_comparison', 0, 'aliqRaw_aliqBlank1_diff',\
-					  'aliqRaw_aliqBlank2_diff', 'aliqBlank1_aliqBlank2_diff', xmax = 45, ymin = -0.03, ymax = 0.15)
+# plot.des_aliqDiffPlot(analyse.DESaliqBlank_compareAll_list[0], analyse.DESaliqBlank_compareAll_list[1],\
+# 					  analyse.DESaliqBlank_compareAll_list[2], 'DESraw_blank_comparison', 0, 'aliqRaw_aliqBlank1_diff',\
+# 					  'aliqRaw_aliqBlank2_diff', 'aliqBlank1_aliqBlank2_diff', xmax = 45, ymin = -0.03, ymax = 0.15)
 
 # compare all blanks with average 
 
@@ -55,8 +55,10 @@ plot.des_blankManyPlot(analyse.DESblank2_compareAll_list, 'DEScompare_all_blanks
 ############################################# Diff plots #############################################
 
 plot.ads_blankDiffPlot(analyse.ADS_blank1_diff_list, analyse.ADS_blank2_diff_list, analyse.ADS_blankDiff_list, 'blanks_diffs_ads',\
-																				'Difference between lines', xmax = 45, ymax = 0.1)
+																				'Difference between lines', legendOne="blank1_Ads_average", legendTwo="blank2_Ads_average", legendDiff="averages_Ads_diff",xmax = 45, ymax = 0.1)
 
+plot.des_blankDiffPlot(analyse.DES_blank1_diff_list, analyse.DES_blank2_diff_list, analyse.DES_blankDiff_list, 'blanks_diffs_des',\
+																				'Difference between lines', legendOne="blank1_Des_average", legendTwo="blank2_Des_average", legendDiff="averages_Des_diff",xmax = 45, ymax = 0.1)
 
 # ############################################# Simple plot: Aliq3 #############################################
 

@@ -1,0 +1,58 @@
+Min: 0.000936 - Max: 19.400900
+Min: 0.001212 - Max: 19.402560
+Min: 19.400900 - Max: 0.763133
+Min: 19.402560 - Max: 0.779957
+Min: 0.000936 - Max: 19.401320
+Min: 0.000798 - Max: 19.401870
+Min: 19.401320 - Max: 0.772097
+Min: 19.401870 - Max: 0.760237
+Ads-Boundary: 0.001212 - : 19.400900
+Des-Boundary: 0.779957 - : 19.400900
+Adsorption...
+Desorption...
+Adsorption...
+Desorption...
+Adsorption...
+Desorption...
+Adsorption...
+Desorption...
+Raw_runs Adsorption
+Raw_runs Desorption
+Raw_runs Desorption
+Raw_runs Adsorption
+Raw_runs Desorption
+Raw_runs Desorption
+Diff Adsorption
+Diff Desorption
+Diff Adsorption
+Diff Desorption
+Min: 0.001212 - Max: 19.407110
+Min: 0.000798 - Max: 19.406970
+Min: 19.407110 - Max: 0.774165
+Min: 19.406970 - Max: 0.780923
+Min: 0.000798 - Max: 19.407110
+Min: 0.000798 - Max: 19.400210
+Min: 19.407110 - Max: 0.782991
+Min: 19.400210 - Max: 1.641722
+Ads-Boundary: 0.001212 - : 19.400210
+Des-Boundary: 1.641722 - : 19.400210
+Adsorption...
+Desorption...
+Adsorption...
+Desorption...
+Adsorption...
+Desorption...
+Adsorption...
+Desorption...
+Raw_runs Adsorption
+Raw_runs Adsorption
+Raw_runs Desorption
+Raw_runs Desorption
+Raw_runs Adsorption
+Raw_runs Adsorption
+Raw_runs Desorption
+Raw_runs Desorption
+Diff Adsorption
+Diff Desorption
+Diff Adsorption
+Diff Desorption
