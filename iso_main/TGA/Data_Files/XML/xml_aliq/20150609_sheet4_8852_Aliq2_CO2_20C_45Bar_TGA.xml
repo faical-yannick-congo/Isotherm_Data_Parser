@@ -19,25 +19,15 @@
       <value>0.0</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>83.2606194459</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>0.0</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>0.0</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>467.4</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>0.0</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>1.00000621542</value>
       <unit>---</unit>
@@ -63,25 +53,15 @@
       <value>6.44</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>88.6691191672</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>6.49586774322</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>5.40849972139</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>514.2</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>1.476333578</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.997888845671</value>
       <unit>---</unit>
@@ -107,25 +87,15 @@
       <value>7.9</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>89.9155482943</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>7.99288894643</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>6.65492884842</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>556.3</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>1.81656566964</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.996511700151</value>
       <unit>---</unit>
@@ -151,25 +121,15 @@
       <value>8.838</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>90.7279838375</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>8.96866302625</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>7.46736439167</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>587.6</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>2.03833250597</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.995104645055</value>
       <unit>---</unit>
@@ -195,25 +155,15 @@
       <value>9.923</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>91.6761748384</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>10.1074859261</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>8.41555539251</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>619.0</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>2.2971558923</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.993069163818</value>
       <unit>---</unit>
@@ -239,25 +189,15 @@
       <value>10.571</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>92.2761363775</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>10.8280685295</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>9.01551693167</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>650.4</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>2.46092466579</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.990358228026</value>
       <unit>---</unit>
@@ -283,25 +223,15 @@
       <value>11.553</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>93.2761739828</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>12.0291616897</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>10.015554537</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>681.9</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>2.73390038402</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.982156864294</value>
       <unit>---</unit>
@@ -327,25 +257,15 @@
       <value>12.232</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>94.2408989639</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>13.1878426933</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>10.980279518</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>713.8</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>2.99723697576</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.964331442779</value>
       <unit>---</unit>
@@ -371,25 +291,15 @@
       <value>12.32</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>94.7368512118</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>13.783505146</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>11.4762317659</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>745.6</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.13261480591</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.945701420577</value>
       <unit>---</unit>
@@ -415,25 +325,15 @@
       <value>12.194</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.0628946866</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.1750990076</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>11.8022752408</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>777.4</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.22161341081</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.926947239216</value>
       <unit>---</unit>
@@ -459,25 +359,15 @@
       <value>11.916</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.289716649</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.4475230705</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.0290972031</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>809.3</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.28352797057</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.907253037636</value>
       <unit>---</unit>
@@ -503,25 +393,15 @@
       <value>11.55</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.4629011944</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.6555260215</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.2022817486</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>841.1</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.33080136852</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.887008132682</value>
       <unit>---</unit>
@@ -547,25 +427,15 @@
       <value>11.088</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.5876797323</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.8053910342</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.3270602864</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>873.0</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.36486159867</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.865662001276</value>
       <unit>---</unit>
@@ -591,25 +461,15 @@
       <value>10.553</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.700154448</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.9404785658</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.4395350021</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>904.9</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.39556331042</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.842695136362</value>
       <unit>---</unit>
@@ -635,25 +495,15 @@
       <value>9.925</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.7340738839</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.9812174364</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.473454438</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>936.8</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.40482214463</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.820234056254</value>
       <unit>---</unit>
@@ -679,25 +529,15 @@
       <value>9.13</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.7554987572</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>15.0069497374</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.4948793113</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>968.7</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.41067039487</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.793080133114</value>
       <unit>---</unit>
@@ -723,25 +563,15 @@
       <value>8.508</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.7496612247</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.9999385808</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.4890417788</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1000.4</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.40907695017</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.773181411694</value>
       <unit>---</unit>
@@ -767,25 +597,15 @@
       <value>7.384</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.654713593</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.8859019181</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.3940941471</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1032.7</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.38315952684</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.741259057419</value>
       <unit>---</unit>
@@ -811,25 +631,15 @@
       <value>6.094</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.5278047329</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.7334782862</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.267185287</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1065.3</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.34851779231</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.706365990525</value>
       <unit>---</unit>
@@ -855,25 +665,15 @@
       <value>7.768</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.7112502138</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.9538051131</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.4506307679</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1097.7</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.39859207116</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.751164072735</value>
       <unit>---</unit>
@@ -899,25 +699,15 @@
       <value>8.324</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.7510901121</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>15.0016547431</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.4904706663</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1129.4</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.40946698708</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.767239427038</value>
       <unit>---</unit>
@@ -943,25 +733,15 @@
       <value>8.972</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.7602982505</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>15.0127141592</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.4996788046</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1161.3</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.41198049074</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.787752819716</value>
       <unit>---</unit>
@@ -987,25 +767,15 @@
       <value>9.807</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.753386429</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>15.0044127299</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.4927669831</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1193.5</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.41009380225</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.815479634114</value>
       <unit>---</unit>
@@ -1031,25 +801,15 @@
       <value>10.324</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.7292649203</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.9754416403</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.4686454744</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1225.4</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.40350946369</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.833801419983</value>
       <unit>---</unit>
@@ -1075,25 +835,15 @@
       <value>11.023</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.6429793332</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.871808509</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.3823598874</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1257.8</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.37995647931</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.861110590916</value>
       <unit>---</unit>
@@ -1119,25 +869,15 @@
       <value>11.381</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.5434257076</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.7522398265</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.2828062617</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1289.9</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.35278177876</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.877670607705</value>
       <unit>---</unit>
@@ -1163,25 +903,15 @@
       <value>11.877</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.3597139053</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.5315931349</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>12.0990944595</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1322.8</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.30263480339</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.902902843473</value>
       <unit>---</unit>
@@ -1207,25 +937,15 @@
       <value>12.118</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>95.181726373</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.3178215662</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>11.9211069272</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1355.4</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.25405035595</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.919084083516</value>
       <unit>---</unit>
@@ -1251,25 +971,15 @@
       <value>12.286</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>94.9785906001</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>14.0738457535</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>11.7179711542</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1388.2</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.19860130761</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.933929505952</value>
       <unit>---</unit>
@@ -1295,25 +1005,15 @@
       <value>12.337</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>94.66775909</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>13.7005221917</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>11.4071396441</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1421.7</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>3.11375504357</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.949370962179</value>
       <unit>---</unit>
@@ -1339,25 +1039,15 @@
       <value>12.062</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>93.9359215385</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>12.8215501682</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>10.6753020926</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1459.2</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>2.9139886746</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.97161532723</value>
       <unit>---</unit>
@@ -1383,25 +1073,15 @@
       <value>10.68</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>92.3825668373</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>10.9558966197</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>9.12194739143</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1510.3</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>2.48997650448</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.989638398897</value>
       <unit>---</unit>
@@ -1427,25 +1107,15 @@
       <value>9.683</value>
       <unit>% chg</unit>
     </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>91.4621237396</value>
-      <unit>g</unit>
-    </weights>
-    <weights>
-      <prefix>Corr.</prefix>
-      <value>9.85040028324</value>
-      <unit>% chg</unit>
-    </weights>
-    <weights>
-      <prefix/>
-      <value>8.20150429373</value>
-      <unit>mass change(mg)</unit>
-    </weights>
     <elap_time>
       <value>1567.2</value>
       <unit>min</unit>
     </elap_time>
+    <concentration>
+      <prefix/>
+      <value>2.2387273371</value>
+      <unit>mmol/g</unit>
+    </concentration>
     <Z>
       <value>0.993721363575</value>
       <unit>---</unit>

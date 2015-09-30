@@ -6,8 +6,8 @@
     </sample_temp>
     <index>1</index>
     <concentration>
-      <value>0.00359</value>
-      <unit>mmol/g</unit>
+      <value>0.0</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -21,7 +21,7 @@
     </weights>
     <pressure>
       <value>0.001211719</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -31,8 +31,8 @@
     </sample_temp>
     <index>2</index>
     <concentration>
-      <value>0.00153</value>
-      <unit>mmol/g</unit>
+      <value>-0.04274</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -46,7 +46,7 @@
     </weights>
     <pressure>
       <value>0.5081481</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -56,8 +56,8 @@
     </sample_temp>
     <index>3</index>
     <concentration>
-      <value>0.00352</value>
-      <unit>mmol/g</unit>
+      <value>-0.04728</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -71,7 +71,7 @@
     </weights>
     <pressure>
       <value>0.7067303</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -81,8 +81,8 @@
     </sample_temp>
     <index>4</index>
     <concentration>
-      <value>0.00333</value>
-      <unit>mmol/g</unit>
+      <value>-0.0579</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -96,7 +96,7 @@
     </weights>
     <pressure>
       <value>0.8533227</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -106,8 +106,8 @@
     </sample_temp>
     <index>5</index>
     <concentration>
-      <value>0.00492</value>
-      <unit>mmol/g</unit>
+      <value>-0.09633</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -121,7 +121,7 @@
     </weights>
     <pressure>
       <value>1.534846</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -131,8 +131,8 @@
     </sample_temp>
     <index>6</index>
     <concentration>
-      <value>0.00832</value>
-      <unit>mmol/g</unit>
+      <value>-0.14811</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -146,7 +146,7 @@
     </weights>
     <pressure>
       <value>2.533687</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -156,8 +156,8 @@
     </sample_temp>
     <index>7</index>
     <concentration>
-      <value>0.01115</value>
-      <unit>mmol/g</unit>
+      <value>-0.20121</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -171,7 +171,7 @@
     </weights>
     <pressure>
       <value>3.514187</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -181,8 +181,8 @@
     </sample_temp>
     <index>8</index>
     <concentration>
-      <value>0.01416</value>
-      <unit>mmol/g</unit>
+      <value>-0.25522</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -196,7 +196,7 @@
     </weights>
     <pressure>
       <value>4.519372</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -206,8 +206,8 @@
     </sample_temp>
     <index>9</index>
     <concentration>
-      <value>0.01782</value>
-      <unit>mmol/g</unit>
+      <value>-0.30303</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -221,7 +221,7 @@
     </weights>
     <pressure>
       <value>5.472291</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -231,8 +231,8 @@
     </sample_temp>
     <index>10</index>
     <concentration>
-      <value>0.02161</value>
-      <unit>mmol/g</unit>
+      <value>-0.35469</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -246,7 +246,7 @@
     </weights>
     <pressure>
       <value>6.489197</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -256,8 +256,8 @@
     </sample_temp>
     <index>11</index>
     <concentration>
-      <value>0.0248</value>
-      <unit>mmol/g</unit>
+      <value>-0.407</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -271,7 +271,7 @@
     </weights>
     <pressure>
       <value>7.477145</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -281,8 +281,8 @@
     </sample_temp>
     <index>12</index>
     <concentration>
-      <value>0.02926</value>
-      <unit>mmol/g</unit>
+      <value>-0.45462</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -296,7 +296,7 @@
     </weights>
     <pressure>
       <value>8.476537</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -306,8 +306,8 @@
     </sample_temp>
     <index>13</index>
     <concentration>
-      <value>0.03183</value>
-      <unit>mmol/g</unit>
+      <value>-0.50962</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -321,7 +321,7 @@
     </weights>
     <pressure>
       <value>9.462415</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -331,8 +331,8 @@
     </sample_temp>
     <index>14</index>
     <concentration>
-      <value>0.03483</value>
-      <unit>mmol/g</unit>
+      <value>-0.56314</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -346,7 +346,7 @@
     </weights>
     <pressure>
       <value>10.45519</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -356,8 +356,8 @@
     </sample_temp>
     <index>15</index>
     <concentration>
-      <value>0.03743</value>
-      <unit>mmol/g</unit>
+      <value>-0.61905</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -371,7 +371,7 @@
     </weights>
     <pressure>
       <value>11.45265</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -381,8 +381,8 @@
     </sample_temp>
     <index>16</index>
     <concentration>
-      <value>0.04105</value>
-      <unit>mmol/g</unit>
+      <value>-0.6695</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -396,7 +396,7 @@
     </weights>
     <pressure>
       <value>12.43618</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -406,8 +406,8 @@
     </sample_temp>
     <index>17</index>
     <concentration>
-      <value>0.044</value>
-      <unit>mmol/g</unit>
+      <value>-0.72361</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -421,7 +421,7 @@
     </weights>
     <pressure>
       <value>13.4302</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -431,8 +431,8 @@
     </sample_temp>
     <index>18</index>
     <concentration>
-      <value>0.04668</value>
-      <unit>mmol/g</unit>
+      <value>-0.77886</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -446,7 +446,7 @@
     </weights>
     <pressure>
       <value>14.42063</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -456,8 +456,8 @@
     </sample_temp>
     <index>19</index>
     <concentration>
-      <value>0.04833</value>
-      <unit>mmol/g</unit>
+      <value>-0.83861</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -471,7 +471,7 @@
     </weights>
     <pressure>
       <value>15.41644</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -481,8 +481,8 @@
     </sample_temp>
     <index>20</index>
     <concentration>
-      <value>0.0511</value>
-      <unit>mmol/g</unit>
+      <value>-0.89366</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -496,7 +496,7 @@
     </weights>
     <pressure>
       <value>16.41224</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -506,8 +506,8 @@
     </sample_temp>
     <index>21</index>
     <concentration>
-      <value>0.05312</value>
-      <unit>mmol/g</unit>
+      <value>-0.95215</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -521,7 +521,7 @@
     </weights>
     <pressure>
       <value>17.40888</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -531,8 +531,8 @@
     </sample_temp>
     <index>22</index>
     <concentration>
-      <value>0.05437</value>
-      <unit>mmol/g</unit>
+      <value>-1.01388</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -546,7 +546,7 @@
     </weights>
     <pressure>
       <value>18.40565</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -556,8 +556,8 @@
     </sample_temp>
     <index>23</index>
     <concentration>
-      <value>0.05524</value>
-      <unit>mmol/g</unit>
+      <value>-1.07743</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -571,7 +571,7 @@
     </weights>
     <pressure>
       <value>19.40256</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -581,8 +581,8 @@
     </sample_temp>
     <index>24</index>
     <concentration>
-      <value>0.05524</value>
-      <unit>mmol/g</unit>
+      <value>-1.07743</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -596,7 +596,7 @@
     </weights>
     <pressure>
       <value>19.40256</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -606,8 +606,8 @@
     </sample_temp>
     <index>25</index>
     <concentration>
-      <value>0.05482</value>
-      <unit>mmol/g</unit>
+      <value>-1.02014</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -621,7 +621,7 @@
     </weights>
     <pressure>
       <value>18.52383</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -631,8 +631,8 @@
     </sample_temp>
     <index>26</index>
     <concentration>
-      <value>0.05549</value>
-      <unit>mmol/g</unit>
+      <value>-0.95105</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -646,7 +646,7 @@
     </weights>
     <pressure>
       <value>17.53809</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -656,8 +656,8 @@
     </sample_temp>
     <index>27</index>
     <concentration>
-      <value>0.05429</value>
-      <unit>mmol/g</unit>
+      <value>-0.88877</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -671,7 +671,7 @@
     </weights>
     <pressure>
       <value>16.5347</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -681,8 +681,8 @@
     </sample_temp>
     <index>28</index>
     <concentration>
-      <value>0.05066</value>
-      <unit>mmol/g</unit>
+      <value>-0.83786</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -696,7 +696,7 @@
     </weights>
     <pressure>
       <value>15.54758</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -706,8 +706,8 @@
     </sample_temp>
     <index>29</index>
     <concentration>
-      <value>0.05007</value>
-      <unit>mmol/g</unit>
+      <value>-0.77304</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -721,7 +721,7 @@
     </weights>
     <pressure>
       <value>14.54364</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -731,8 +731,8 @@
     </sample_temp>
     <index>30</index>
     <concentration>
-      <value>0.04606</value>
-      <unit>mmol/g</unit>
+      <value>-0.72306</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -746,7 +746,7 @@
     </weights>
     <pressure>
       <value>13.54949</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -756,8 +756,8 @@
     </sample_temp>
     <index>31</index>
     <concentration>
-      <value>0.04398</value>
-      <unit>mmol/g</unit>
+      <value>-0.66481</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -771,7 +771,7 @@
     </weights>
     <pressure>
       <value>12.54996</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -781,8 +781,8 @@
     </sample_temp>
     <index>32</index>
     <concentration>
-      <value>0.04184</value>
-      <unit>mmol/g</unit>
+      <value>-0.60763</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -796,7 +796,7 @@
     </weights>
     <pressure>
       <value>11.56118</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -806,8 +806,8 @@
     </sample_temp>
     <index>33</index>
     <concentration>
-      <value>0.03836</value>
-      <unit>mmol/g</unit>
+      <value>-0.55622</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -821,7 +821,7 @@
     </weights>
     <pressure>
       <value>10.57337</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -831,8 +831,8 @@
     </sample_temp>
     <index>34</index>
     <concentration>
-      <value>0.03544</value>
-      <unit>mmol/g</unit>
+      <value>-0.50223</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -846,7 +846,7 @@
     </weights>
     <pressure>
       <value>9.58115</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -856,8 +856,8 @@
     </sample_temp>
     <index>35</index>
     <concentration>
-      <value>0.03251</value>
-      <unit>mmol/g</unit>
+      <value>-0.44854</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -871,7 +871,7 @@
     </weights>
     <pressure>
       <value>8.591963</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -881,8 +881,8 @@
     </sample_temp>
     <index>36</index>
     <concentration>
-      <value>0.02924</value>
-      <unit>mmol/g</unit>
+      <value>-0.39679</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -896,7 +896,7 @@
     </weights>
     <pressure>
       <value>7.609946</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -906,8 +906,8 @@
     </sample_temp>
     <index>37</index>
     <concentration>
-      <value>0.02622</value>
-      <unit>mmol/g</unit>
+      <value>-0.34298</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -921,7 +921,7 @@
     </weights>
     <pressure>
       <value>6.611795</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -931,8 +931,8 @@
     </sample_temp>
     <index>38</index>
     <concentration>
-      <value>0.02325</value>
-      <unit>mmol/g</unit>
+      <value>-0.28915</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -946,7 +946,7 @@
     </weights>
     <pressure>
       <value>5.614746</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -956,8 +956,8 @@
     </sample_temp>
     <index>39</index>
     <concentration>
-      <value>0.02107</value>
-      <unit>mmol/g</unit>
+      <value>-0.23371</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -971,7 +971,7 @@
     </weights>
     <pressure>
       <value>4.644313</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -981,8 +981,8 @@
     </sample_temp>
     <index>40</index>
     <concentration>
-      <value>0.01756</value>
-      <unit>mmol/g</unit>
+      <value>-0.18016</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -996,7 +996,7 @@
     </weights>
     <pressure>
       <value>3.614443</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -1006,8 +1006,8 @@
     </sample_temp>
     <index>41</index>
     <concentration>
-      <value>0.01336</value>
-      <unit>mmol/g</unit>
+      <value>-0.13196</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -1021,7 +1021,7 @@
     </weights>
     <pressure>
       <value>2.618636</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -1031,8 +1031,8 @@
     </sample_temp>
     <index>42</index>
     <concentration>
-      <value>0.0099</value>
-      <unit>mmol/g</unit>
+      <value>-0.08014</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -1046,7 +1046,7 @@
     </weights>
     <pressure>
       <value>1.616348</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -1056,8 +1056,8 @@
     </sample_temp>
     <index>43</index>
     <concentration>
-      <value>0.00655</value>
-      <unit>mmol/g</unit>
+      <value>-0.04885</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -1071,7 +1071,7 @@
     </weights>
     <pressure>
       <value>0.9282047</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -1081,8 +1081,8 @@
     </sample_temp>
     <index>44</index>
     <concentration>
-      <value>0.00635</value>
-      <unit>mmol/g</unit>
+      <value>-0.03981</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -1096,7 +1096,7 @@
     </weights>
     <pressure>
       <value>0.7799575</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <content>
@@ -1106,8 +1106,8 @@
     </sample_temp>
     <index>45</index>
     <concentration>
-      <value>0.0061</value>
-      <unit>mmol/g</unit>
+      <value>-0.03273</value>
+      <unit>mg</unit>
     </concentration>
     <weights>
       <prefix/>
@@ -1121,7 +1121,7 @@
     </weights>
     <pressure>
       <value>0.6573607</value>
-      <unit>bar</unit>
+      <unit>Bar</unit>
     </pressure>
   </content>
   <header>

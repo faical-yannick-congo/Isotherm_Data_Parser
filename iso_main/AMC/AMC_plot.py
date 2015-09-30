@@ -65,7 +65,7 @@ class AMC_Plot:
 			
 			plt.axis([0, 45, 0, 0.35])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (mmol/g)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -83,7 +83,7 @@ class AMC_Plot:
 			
 			plt.axis([0, 45, 0, 0.35])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (mmol/g)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -143,7 +143,7 @@ class AMC_Plot:
 			
 			plt.axis([0, 50, 0, 0.35])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (mmol/g)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -161,7 +161,7 @@ class AMC_Plot:
 			
 			plt.axis([0, 50, 0, 0.35])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (mmol/g)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -222,7 +222,7 @@ class AMC_Plot:
 			
 			plt.axis([0, 45, 0, 0.02])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (mmol/g)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -240,7 +240,7 @@ class AMC_Plot:
 			
 			plt.axis([0, 45, 0, 0.3])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (mmol/g)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -300,7 +300,7 @@ class AMC_Plot:
 			
 			plt.axis([0, 45, 0, 0.02])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (mmol/g)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -317,8 +317,8 @@ class AMC_Plot:
 				legend.append('Blank_%s_Des_Diff_%s-%s'%(experiment["name"], run["i"], run["j"]))
 			
 			plt.axis([0, 45, 0, 0.3])
-			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (mmol/g)')
+			plt.xlabel('Pressure (Bar)')	
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -383,7 +383,7 @@ class AMC_Plot:
 			
 			plt.axis([0, 45, 0, 0.3])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (mmol/g)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 

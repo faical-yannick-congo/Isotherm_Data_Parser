@@ -71,14 +71,16 @@ class TGA_Analyse:
 		
 		while True: 
 			try:
-				content= raw["content"][begin3 - 1]				
+				content= raw["content"][begin3 - 1]			
 
-				if run == 0: 
-					conc_dict = content.get('weights')[3] # Before it was 3 but corrected to 4th and now second	
-				elif run == 1:
-					conc_dict = content.get('weights')[4]
-				elif run == 2:
-					conc_dict = content.get('weights')[2]
+				conc_dict = content.get('concentration')
+
+				# if run == 0: 
+				# 	conc_dict = content.get('weights')[3] # Before it was 3 but corrected to 4th and now second	
+				# elif run == 1:
+				# 	conc_dict = content.get('weights')[4]
+				# elif run == 2:
+				# 	conc_dict = content.get('weights')[2]
 
 				if conc_dict.get('value') >= 0:
 					conc_val = conc_dict.get('value')

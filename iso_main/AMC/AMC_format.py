@@ -50,16 +50,21 @@ def load_set(file_path):
 			row1["sample_temp"]["value"] = sh1.cell_value(begin, 2)
 
 			row1["pressure"] = {}
-			row1["pressure"]["unit"] = "bar"
+			row1["pressure"]["unit"] = "Bar"
 			row1["pressure"]["value"] = (sh1.cell_value(begin, 3))/(0.9869)
 
 			row1["volume"] = {}
-			row1["volume"]["unit"] = "L"
-			row1["volume"]["value"] = sh1.cell_value(begin, 4)/1000
+			row1["volume"]["unit"] = "cc"
+			row1["volume"]["value"] = sh1.cell_value(begin, 4)
 
-			row1["concentration"] = {}
-			row1["concentration"]["unit"] = "mmol/g"
-			row1["concentration"]["value"] = (sh1.cell_value(begin, 5)*10)/44
+			if "SiShot" in file_path: # In case of blank: W% => mg
+				row1["concentration"] = {}
+				row1["concentration"]["unit"] = "mg"
+				row1["concentration"]["value"] = 1.96*row1["volume"]["value"]*1000
+			else: # In case of aliq: W% => mmol/g
+				row1["concentration"] = {}
+				row1["concentration"]["unit"] = "mmol/g"
+				row1["concentration"]["value"] = (sh1.cell_value(begin, 5)*10)/44
 
 			content.append(row1)
 			begin += 1 

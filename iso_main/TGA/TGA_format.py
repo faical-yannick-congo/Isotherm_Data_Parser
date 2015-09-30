@@ -144,6 +144,8 @@ class TGApp:
 		# print str(begin)
 		# print sh.cell_value(23, 0)
 
+		W_init = 0
+
 		while 1:
 			try:
 				row = {}
@@ -152,6 +154,18 @@ class TGApp:
 				row["elap_time"] = {}
 				row["elap_time"]["unit"] = sh.cell_value(22, 0).encode('ascii', 'ignore') 
 				row["elap_time"]["value"] = sh.cell_value(begin, 0)
+
+				row["pressure"] = {}
+				row["pressure"]["unit"] = "Bar"
+				row["pressure"]["value"] = (sh.cell_value(begin, 3))/(750.1)
+
+				row["sample_temp"] = {}
+				row["sample_temp"]["unit"] = sh.cell_value(22, 4).encode('ascii', 'ignore') 
+				row["sample_temp"]["value"] = sh.cell_value(begin, 4)
+
+				row["Z"] = {}
+				row["Z"]["unit"] = sh.cell_value(22, 6).encode('ascii', 'ignore') 
+				row["Z"]["value"] = sh.cell_value(begin, 6)
 
 				row["weights"] = []
 				weight1 = {}
@@ -170,31 +184,35 @@ class TGApp:
 				weight3["prefix"] = "Corr."
 				weight3["unit"] = sh.cell_value(22, 7).encode('ascii', 'ignore') 
 				weight3["value"] = sh.cell_value(begin, 7)
-				row["weights"].append(weight3)
+				# row["weights"].append(weight3)
 
 				weight4 = {}
 				weight4["prefix"] = "Corr."
 				weight4["unit"] = sh.cell_value(22, 8).encode('ascii', 'ignore') 
 				weight4["value"] = sh.cell_value(begin, 8)
-				row["weights"].append(weight4)
+				# row["weights"].append(weight4)
 
-				weight5 = {}
-				weight5["prefix"] = ""
-				weight5["unit"] = "mass change(mg)"
-				weight5["value"] = ((sh.cell_value(begin, 8))*(sh.cell_value(23, 7)))/100
-				row["weights"].append(weight5)
+				# weight1["value"] + (53.3248120893643*row["pressure"]["value"]*44/ (62363.3 * (row["sample_temp"]["value"]+273.16)))/row["Z"]["value"]
 
-				row["pressure"] = {}
-				row["pressure"]["unit"] = "Bar"
-				row["pressure"]["value"] = (sh.cell_value(begin, 3))/(750.1)
-
-				row["sample_temp"] = {}
-				row["sample_temp"]["unit"] = sh.cell_value(22, 4).encode('ascii', 'ignore') 
-				row["sample_temp"]["value"] = sh.cell_value(begin, 4)
-
-				row["Z"] = {}
-				row["Z"]["unit"] = sh.cell_value(22, 6).encode('ascii', 'ignore') 
-				row["Z"]["value"] = sh.cell_value(begin, 6)
+				if "SiShot" in file_path: # If blank bring W% corrected to mg.
+					concentration = {}
+					concentration["prefix"] = ""
+					concentration["unit"] = "mg"#"mass change(mg)" corrected directly.
+					if row["index"] == 1:
+						W_init = weight3["value"]
+					concentration["value"] = weight3["value"] - W_init #weight1["value"] + (53.3248120893643*row["pressure"]["value"]*44/ (62363.3 * (row["sample_temp"]["value"]+273.16)))/row["Z"]["value"]
+					row["concentration"] = concentration
+				else: # Aliqs
+					# Whg = weight1["value"] + (53.3248120893643*row["pressure"]["value"]*44/ (62363.3 * (row["sample_temp"]["value"]+273.16)))/row["Z"]["value"]
+					# if row["index"] == 1:
+					# 	W_corr = Whg
+					concentration = {}
+					concentration["prefix"] = ""
+					concentration["unit"] = "mmol/g"
+					# W_purcent = (Whg - W_corr)*100/W_corr
+					# print "==> %f" %W_purcent
+					concentration["value"] = 10 * weight4["value"] / 44#((sh.cell_value(begin, 8))*(sh.cell_value(23, 7)))/100
+					row["concentration"] = concentration
 
 				TGA_Content.append(row)
 				begin += 1

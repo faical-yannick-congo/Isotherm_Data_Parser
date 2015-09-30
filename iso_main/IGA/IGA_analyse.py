@@ -75,7 +75,7 @@ class IGA_Analyse:
 			try:
 				content= raw["content"][begin3 - 1]				
 
-				conc_dict = content.get('weights')[1]
+				conc_dict = content.get('concentration')
 
 				# Forbid negative values.
 				if conc_dict.get('value') >= 0:

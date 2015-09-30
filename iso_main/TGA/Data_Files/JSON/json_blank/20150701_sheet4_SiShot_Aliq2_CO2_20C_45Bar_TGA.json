@@ -5,6 +5,11 @@
                 "unit": "---",
                 "value": 1.0000062225094135
             },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.0
+            },
             "elap_time": {
                 "unit": "min",
                 "value": 360.5
@@ -28,21 +33,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": 0.0
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 97.80823035633789
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.0
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.0
                 }
             ]
         },
@@ -50,6 +40,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.9978999051213803
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.03422287443164862
             },
             "elap_time": {
                 "unit": "min",
@@ -74,21 +69,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -0.029
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 97.84245323076954
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.034989769579683444
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.03422287443164862
                 }
             ]
         },
@@ -96,6 +76,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.996497538869962
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.04340906122243382
             },
             "elap_time": {
                 "unit": "min",
@@ -120,21 +105,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -0.062
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 97.85163941756032
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.04438180822235984
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.04340906122243382
                 }
             ]
         },
@@ -142,6 +112,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.9951022693679037
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.050931067630557436
             },
             "elap_time": {
                 "unit": "min",
@@ -166,21 +141,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -0.096
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 97.85916142396844
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.05207237411923704
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.050931067630557436
                 }
             ]
         },
@@ -188,6 +148,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.9930721870079736
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.051219261070230004
             },
             "elap_time": {
                 "unit": "min",
@@ -212,21 +177,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -0.158
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 97.85944961740812
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.05236702564152981
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.051219261070230004
                 }
             ]
         },
@@ -234,6 +184,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.9903392306426602
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.06606901087491224
             },
             "elap_time": {
                 "unit": "min",
@@ -258,21 +213,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -0.225
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 97.8742993672128
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.06754954121366641
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.06606901087491224
                 }
             ]
         },
@@ -280,6 +220,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.9824276935559269
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.11687516122259467
             },
             "elap_time": {
                 "unit": "min",
@@ -304,21 +249,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -0.414
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 97.92510551756048
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.11949419879778171
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.11687516122259467
                 }
             ]
         },
@@ -326,6 +256,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.9641610144194016
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.21935138313020275
             },
             "elap_time": {
                 "unit": "min",
@@ -350,21 +285,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -0.866
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.02758173946809
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.22426679465629343
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.21935138313020275
                 }
             ]
         },
@@ -372,6 +292,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.9460422075119242
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.3256810828235075
             },
             "elap_time": {
                 "unit": "min",
@@ -396,21 +321,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -1.324
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.1339114391614
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.33297922029360555
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.3256810828235075
                 }
             ]
         },
@@ -418,6 +328,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.9269168020238334
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.43846612113975425
             },
             "elap_time": {
                 "unit": "min",
@@ -442,21 +357,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -1.81
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.24669647747764
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.44829164124769594
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.43846612113975425
                 }
             ]
         },
@@ -464,6 +364,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.9069505453144584
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.5444027026727696
             },
             "elap_time": {
                 "unit": "min",
@@ -488,21 +393,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -2.337
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.35263305901066
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.5566021394001152
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.5444027026727696
                 }
             ]
         },
@@ -510,6 +400,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.8866929816714634
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.6525561209495692
             },
             "elap_time": {
                 "unit": "min",
@@ -534,21 +429,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -2.881
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.46078647728746
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.6671791510511509
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.6525561209495692
                 }
             ]
         },
@@ -556,6 +436,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.8651085287179012
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.7480194095167008
             },
             "elap_time": {
                 "unit": "min",
@@ -580,21 +465,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -3.489
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.55624976585459
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.7647816618207833
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.7480194095167008
                 }
             ]
         },
@@ -602,6 +472,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.8429087774572138
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.8621880209846893
             },
             "elap_time": {
                 "unit": "min",
@@ -626,21 +501,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -4.11
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.67041837732258
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.8815086602053221
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.8621880209846893
                 }
             ]
         },
@@ -648,6 +508,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.8193484774971811
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.9551834238804844
             },
             "elap_time": {
                 "unit": "min",
@@ -672,21 +537,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -4.813
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.76341378021837
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.9765879828318449
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.9551834238804844
                 }
             ]
         },
@@ -694,6 +544,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.7931944148578982
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 1.0362841350448235
             },
             "elap_time": {
                 "unit": "min",
@@ -718,21 +573,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -5.634
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.84451449138271
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 1.0595060674029189
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 1.0362841350448233
                 }
             ]
         },
@@ -740,6 +580,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.7732237668692483
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 1.0946376884438536
             },
             "elap_time": {
                 "unit": "min",
@@ -764,21 +609,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -6.275
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.90286804478174
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 1.119167256636621
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 1.0946376884438536
                 }
             ]
         },
@@ -786,6 +616,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.7413275105494146
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 1.1069185225070015
             },
             "elap_time": {
                 "unit": "min",
@@ -810,21 +645,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -7.411
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.91514887884489
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 1.1317232900280914
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 1.1069185225070015
                 }
             ]
         },
@@ -832,6 +652,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.7063202124359702
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 1.0741959368075271
             },
             "elap_time": {
                 "unit": "min",
@@ -856,21 +681,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -8.745
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.88242629314541
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 1.0982674289208425
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 1.0741959368075271
                 }
             ]
         },
@@ -878,6 +688,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.7516609108321648
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 1.1182151048116822
             },
             "elap_time": {
                 "unit": "min",
@@ -902,21 +717,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -7.027
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.92644546114957
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 1.1432730157142883
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 1.1182151048116822
                 }
             ]
         },
@@ -924,6 +724,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.7677056804332255
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 1.1174542222382797
             },
             "elap_time": {
                 "unit": "min",
@@ -948,21 +753,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -6.451
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.92568457857617
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 1.1424950826399136
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 1.1174542222382795
                 }
             ]
         },
@@ -970,6 +760,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.7881403758934054
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 1.0670913643616444
             },
             "elap_time": {
                 "unit": "min",
@@ -994,21 +789,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -5.78
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.87532172069953
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 1.0910036511998888
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 1.0670913643616444
                 }
             ]
         },
@@ -1016,6 +796,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.8126456905380552
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 1.0279872561877141
             },
             "elap_time": {
                 "unit": "min",
@@ -1040,21 +825,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -4.969
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.8362176125256
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 1.051023265059106
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 1.0279872561877141
                 }
             ]
         },
@@ -1062,6 +832,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.8333861713212567
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.9424215718989899
             },
             "elap_time": {
                 "unit": "min",
@@ -1086,21 +861,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -4.349
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.75065192823688
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.9635401524652182
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.9424215718989899
                 }
             ]
         },
@@ -1108,6 +868,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.8604045364724119
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.8472222862621095
             },
             "elap_time": {
                 "unit": "min",
@@ -1132,21 +897,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -3.543
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.6554526426
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.8662075606270391
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.8472222862621095
                 }
             ]
         },
@@ -1154,6 +904,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.8773132675239832
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.7691801644359089
             },
             "elap_time": {
                 "unit": "min",
@@ -1178,21 +933,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -3.067
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.5774105207738
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.7864166048538129
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.7691801644359089
                 }
             ]
         },
@@ -1200,6 +940,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.9023838292099272
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.64050202548286
             },
             "elap_time": {
                 "unit": "min",
@@ -1224,21 +969,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -2.385
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.44873238182075
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.6548549372065763
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.64050202548286
                 }
             ]
         },
@@ -1246,6 +976,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.9185201847140847
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.5614181326238139
             },
             "elap_time": {
                 "unit": "min",
@@ -1270,21 +1005,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -1.951
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.3696484889617
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.5739988655130949
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.561418132623814
                 }
             ]
         },
@@ -1292,6 +1012,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.934472053007355
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.4604240434434246
             },
             "elap_time": {
                 "unit": "min",
@@ -1316,21 +1041,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -1.55
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.26865439978131
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.47074161526692987
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.4604240434434246
                 }
             ]
         },
@@ -1338,6 +1048,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.9491698129336258
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.3793148356510443
             },
             "elap_time": {
                 "unit": "min",
@@ -1362,21 +1077,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -1.172
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.18754519198893
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.38781484366817914
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.3793148356510443
                 }
             ]
         },
@@ -1384,6 +1084,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.9716292275769086
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.23786210863180202
             },
             "elap_time": {
                 "unit": "min",
@@ -1408,21 +1113,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -0.622
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 98.04609246496969
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.24319232416864678
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.23786210863180202
                 }
             ]
         },
@@ -1430,6 +1120,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.989639379023513
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.09419113455594186
             },
             "elap_time": {
                 "unit": "min",
@@ -1454,21 +1149,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -0.218
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 97.90242149089383
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.09630184925418023
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.09419113455594186
                 }
             ]
         },
@@ -1476,6 +1156,11 @@
             "Z": {
                 "unit": "---",
                 "value": 0.9937327351278799
+            },
+            "concentration": {
+                "prefix": "",
+                "unit": "mg",
+                "value": 0.054945503216771385
             },
             "elap_time": {
                 "unit": "min",
@@ -1500,21 +1185,6 @@
                     "prefix": "",
                     "unit": "% chg",
                     "value": -0.134
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "g",
-                    "value": 97.86317585955466
-                },
-                {
-                    "prefix": "Corr.",
-                    "unit": "% chg",
-                    "value": 0.05617676857723759
-                },
-                {
-                    "prefix": "",
-                    "unit": "mass change(mg)",
-                    "value": 0.054945503216771385
                 }
             ]
         }

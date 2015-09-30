@@ -2,12 +2,12 @@
     "content": [
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": -0.0011
+                "unit": "mg",
+                "value": 0.0
             },
             "index": 1,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 0.000797981
             },
             "sample_temp": {
@@ -29,12 +29,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": -0.0012
+                "unit": "mg",
+                "value": -0.032099999999999795
             },
             "index": 2,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 0.5161465
             },
             "sample_temp": {
@@ -56,12 +56,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.00016
+                "unit": "mg",
+                "value": -0.03848000000000695
             },
             "index": 3,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 0.7105916999999999
             },
             "sample_temp": {
@@ -83,12 +83,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.00085
+                "unit": "mg",
+                "value": -0.047760000000010905
             },
             "index": 4,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 0.9065537
             },
             "sample_temp": {
@@ -110,12 +110,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.00176
+                "unit": "mg",
+                "value": -0.08192000000001087
             },
             "index": 5,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 1.52009
             },
             "sample_temp": {
@@ -137,12 +137,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.00508
+                "unit": "mg",
+                "value": -0.12934000000001333
             },
             "index": 6,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 2.507899
             },
             "sample_temp": {
@@ -164,12 +164,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.00914
+                "unit": "mg",
+                "value": -0.1739600000000081
             },
             "index": 7,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 3.497225
             },
             "sample_temp": {
@@ -191,12 +191,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.01303
+                "unit": "mg",
+                "value": -0.2205500000000029
             },
             "index": 8,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 4.506133
             },
             "sample_temp": {
@@ -218,12 +218,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.01777
+                "unit": "mg",
+                "value": -0.2625600000000077
             },
             "index": 9,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 5.493942
             },
             "sample_temp": {
@@ -245,12 +245,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.02152
+                "unit": "mg",
+                "value": -0.30934000000000594
             },
             "index": 10,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 6.4949889999999995
             },
             "sample_temp": {
@@ -272,12 +272,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.02642
+                "unit": "mg",
+                "value": -0.3503700000000123
             },
             "index": 11,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 7.475489
             },
             "sample_temp": {
@@ -299,12 +299,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.0302
+                "unit": "mg",
+                "value": -0.3966700000000003
             },
             "index": 12,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 8.46716
             },
             "sample_temp": {
@@ -326,12 +326,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.03437
+                "unit": "mg",
+                "value": -0.4411699999999996
             },
             "index": 13,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 9.455383
             },
             "sample_temp": {
@@ -353,12 +353,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.03773
+                "unit": "mg",
+                "value": -0.4896500000000117
             },
             "index": 14,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 10.45243
             },
             "sample_temp": {
@@ -380,12 +380,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.04108
+                "unit": "mg",
+                "value": -0.5378900000000044
             },
             "index": 15,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 11.44548
             },
             "sample_temp": {
@@ -407,12 +407,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.04404
+                "unit": "mg",
+                "value": -0.5877100000000013
             },
             "index": 16,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 12.434940000000001
             },
             "sample_temp": {
@@ -434,12 +434,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.04743
+                "unit": "mg",
+                "value": -0.6359900000000067
             },
             "index": 17,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 13.4291
             },
             "sample_temp": {
@@ -461,12 +461,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.04999
+                "unit": "mg",
+                "value": -0.6876100000000065
             },
             "index": 18,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 14.418700000000001
             },
             "sample_temp": {
@@ -488,12 +488,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.05262
+                "unit": "mg",
+                "value": -0.7393900000000002
             },
             "index": 19,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 15.41823
             },
             "sample_temp": {
@@ -515,12 +515,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.05565
+                "unit": "mg",
+                "value": -0.7895000000000039
             },
             "index": 20,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 16.41376
             },
             "sample_temp": {
@@ -542,12 +542,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.05824
+                "unit": "mg",
+                "value": -0.8412300000000101
             },
             "index": 21,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 17.408189999999998
             },
             "sample_temp": {
@@ -569,12 +569,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.06052
+                "unit": "mg",
+                "value": -0.8944600000000094
             },
             "index": 22,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 18.40538
             },
             "sample_temp": {
@@ -596,12 +596,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.06266
+                "unit": "mg",
+                "value": -0.9479700000000122
             },
             "index": 23,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 19.40187
             },
             "sample_temp": {
@@ -623,12 +623,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.06266
+                "unit": "mg",
+                "value": -0.9479700000000122
             },
             "index": 24,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 19.40187
             },
             "sample_temp": {
@@ -650,12 +650,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.06275
+                "unit": "mg",
+                "value": -0.8929700000000054
             },
             "index": 25,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 18.521349999999998
             },
             "sample_temp": {
@@ -677,12 +677,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.05998
+                "unit": "mg",
+                "value": -0.841620000000006
             },
             "index": 26,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 17.52292
             },
             "sample_temp": {
@@ -704,12 +704,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.06063
+                "unit": "mg",
+                "value": -0.7773400000000095
             },
             "index": 27,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 16.533459999999998
             },
             "sample_temp": {
@@ -731,12 +731,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.05725
+                "unit": "mg",
+                "value": -0.727800000000002
             },
             "index": 28,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 15.52593
             },
             "sample_temp": {
@@ -758,12 +758,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.05376
+                "unit": "mg",
+                "value": -0.68001000000001
             },
             "index": 29,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 14.536610000000001
             },
             "sample_temp": {
@@ -785,12 +785,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.05054
+                "unit": "mg",
+                "value": -0.6309100000000001
             },
             "index": 30,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 13.545209999999999
             },
             "sample_temp": {
@@ -812,12 +812,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.04738
+                "unit": "mg",
+                "value": -0.5814700000000101
             },
             "index": 31,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 12.54416
             },
             "sample_temp": {
@@ -839,12 +839,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.04412
+                "unit": "mg",
+                "value": -0.5323200000000128
             },
             "index": 32,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 11.54643
             },
             "sample_temp": {
@@ -866,12 +866,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.04111
+                "unit": "mg",
+                "value": -0.4828600000000023
             },
             "index": 33,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 10.55793
             },
             "sample_temp": {
@@ -893,12 +893,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.03747
+                "unit": "mg",
+                "value": -0.4360200000000134
             },
             "index": 34,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 9.570395000000001
             },
             "sample_temp": {
@@ -920,12 +920,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.03402
+                "unit": "mg",
+                "value": -0.388300000000001
             },
             "index": 35,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 8.578173000000001
             },
             "sample_temp": {
@@ -947,12 +947,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.03116
+                "unit": "mg",
+                "value": -0.3383800000000008
             },
             "index": 36,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 7.58995
             },
             "sample_temp": {
@@ -974,12 +974,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.02895
+                "unit": "mg",
+                "value": -0.2862300000000033
             },
             "index": 37,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 6.6048990000000005
             },
             "sample_temp": {
@@ -1001,12 +1001,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.02491
+                "unit": "mg",
+                "value": -0.2407000000000039
             },
             "index": 38,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 5.607299
             },
             "sample_temp": {
@@ -1028,12 +1028,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.02134
+                "unit": "mg",
+                "value": -0.1935500000000019
             },
             "index": 39,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 4.6131459999999995
             },
             "sample_temp": {
@@ -1055,12 +1055,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.01736
+                "unit": "mg",
+                "value": -0.14786000000000854
             },
             "index": 40,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 3.613892
             },
             "sample_temp": {
@@ -1082,12 +1082,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.01351
+                "unit": "mg",
+                "value": -0.10387000000000057
             },
             "index": 41,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 2.650078
             },
             "sample_temp": {
@@ -1109,12 +1109,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.00936
+                "unit": "mg",
+                "value": -0.056530000000009295
             },
             "index": 42,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 1.610693
             },
             "sample_temp": {
@@ -1136,12 +1136,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.00708
+                "unit": "mg",
+                "value": -0.024650000000008276
             },
             "index": 43,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 0.9439257999999999
             },
             "sample_temp": {
@@ -1163,12 +1163,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.00605
+                "unit": "mg",
+                "value": -0.017480000000006157
             },
             "index": 44,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 0.7602372000000001
             },
             "sample_temp": {
@@ -1190,12 +1190,12 @@
         },
         {
             "concentration": {
-                "unit": "mmol/g",
-                "value": 0.00493
+                "unit": "mg",
+                "value": -0.015160000000008722
             },
             "index": 45,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 0.648121
             },
             "sample_temp": {

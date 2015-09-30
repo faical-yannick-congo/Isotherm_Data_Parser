@@ -60,9 +60,9 @@ class IGA_Plot:
 				plt.plot(run["ads"][0], run["ads"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
 				legend.append('Blank_%s_Ads_Run_%s'%(experiment["name"], run["sample"]))
 			
-			plt.axis([0, 45, 0, 0.35])
+			plt.axis([0, 45, 0, 130])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -78,9 +78,9 @@ class IGA_Plot:
 				plt.plot(run["des"][0], run["des"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
 				legend.append('Blank_%s_Des_Run_%s'%(experiment["name"], run["sample"]))
 			
-			plt.axis([0, 45, 0, 0.35])
+			plt.axis([0, 45, 0, 130])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -98,9 +98,9 @@ class IGA_Plot:
 				plt.plot(run["ads"][0], run["ads"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
 				legend.append('Aliq_%s_Ads_Run_%s'%(experiment["name"], run["sample"]))
 			
-			plt.axis([0, 45, 0, 20])
+			plt.axis([0, 45, 0, 10])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mmol/g)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -116,9 +116,9 @@ class IGA_Plot:
 				plt.plot(run["des"][0], run["des"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
 				legend.append('Aliq_%s_Des_Run_%s'%(experiment["name"], run["sample"]))
 			
-			plt.axis([0, 45, 0, 20])
+			plt.axis([0, 45, 0, 10])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mmol/g)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -138,9 +138,9 @@ class IGA_Plot:
 				plt.plot(run["ads"][0], run["ads"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
 				legend.append('Blank_%s_Ads_Run_%s'%(experiment["name"], run["sample"]))
 			
-			plt.axis([0, 45, 0, 0.35])
+			plt.axis([0, 45, 0, 130])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -156,9 +156,9 @@ class IGA_Plot:
 				plt.plot(run["des"][0], run["des"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
 				legend.append('Blank_%s_Des_Run_%s'%(experiment["name"], run["sample"]))
 			
-			plt.axis([0, 45, 0, 0.35])
+			plt.axis([0, 45, 0, 130])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -176,9 +176,9 @@ class IGA_Plot:
 				plt.plot(run["ads"][0], run["ads"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
 				legend.append('Aliq_%s_Ads_Run_%s'%(experiment["name"], run["sample"]))
 			
-			plt.axis([0, 45, 0, 20])
+			plt.axis([0, 45, 0, 10])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mmol/g)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -194,9 +194,9 @@ class IGA_Plot:
 				plt.plot(run["des"][0], run["des"][1], 'o', ms = float(5.0), color = self.color1, mew = .25, ls = '-', lw = float(1.5), zorder = 3)
 				legend.append('Aliq_%s_Des_Run_%s'%(experiment["name"], run["sample"]))
 			
-			plt.axis([0, 45, 0, 20])
+			plt.axis([0, 45, 0, 10])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mmol/g)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -219,7 +219,7 @@ class IGA_Plot:
 			
 			plt.axis([0, 45, 0, 0.3])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -237,7 +237,7 @@ class IGA_Plot:
 			
 			plt.axis([0, 45, 0, 0.3])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -257,7 +257,7 @@ class IGA_Plot:
 			
 			plt.axis([0, 45, 0, 0.3])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake mmol/g)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -275,7 +275,7 @@ class IGA_Plot:
 			
 			plt.axis([0, 45, 0, 0.3])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake mmol/g)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -297,7 +297,7 @@ class IGA_Plot:
 			
 			plt.axis([0, 45, 0, 0.3])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -315,7 +315,7 @@ class IGA_Plot:
 			
 			plt.axis([0, 45, 0, 0.3])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -335,7 +335,7 @@ class IGA_Plot:
 			
 			plt.axis([0, 45, 0, 0.3])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mmol/g)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -353,7 +353,7 @@ class IGA_Plot:
 			
 			plt.axis([0, 45, 0, 0.3])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mmol/g)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -380,7 +380,7 @@ class IGA_Plot:
 			
 			plt.axis([0, 45, 0, 0.3])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mg)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 
@@ -405,7 +405,7 @@ class IGA_Plot:
 			
 			plt.axis([0, 45, 0, 0.3])
 			plt.xlabel('Pressure (Bar)')
-			plt.ylabel('Uptake (\delta Mass (mg)')
+			plt.ylabel('Uptake (mmol/g)')
 			plt.grid(b=True, which='major', color='k', linestyle='-')
 			plt.legend(legend, loc = 2, fontsize = 10)
 

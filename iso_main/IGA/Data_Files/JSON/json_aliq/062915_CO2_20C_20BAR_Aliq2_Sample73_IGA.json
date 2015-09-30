@@ -7,7 +7,7 @@
             },
             "index": 1,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 0.000797981
             },
             "sample_temp": {
@@ -34,7 +34,7 @@
             },
             "index": 2,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 0.535591
             },
             "sample_temp": {
@@ -61,7 +61,7 @@
             },
             "index": 3,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 0.699973
             },
             "sample_temp": {
@@ -88,7 +88,7 @@
             },
             "index": 4,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 0.8833858
             },
             "sample_temp": {
@@ -115,7 +115,7 @@
             },
             "index": 5,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 1.493337
             },
             "sample_temp": {
@@ -142,7 +142,7 @@
             },
             "index": 6,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 2.511484
             },
             "sample_temp": {
@@ -169,7 +169,7 @@
             },
             "index": 7,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 3.477781
             },
             "sample_temp": {
@@ -196,7 +196,7 @@
             },
             "index": 8,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 4.515234
             },
             "sample_temp": {
@@ -223,7 +223,7 @@
             },
             "index": 9,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 5.510904
             },
             "sample_temp": {
@@ -250,7 +250,7 @@
             },
             "index": 10,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 6.504505
             },
             "sample_temp": {
@@ -277,7 +277,7 @@
             },
             "index": 11,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 7.487349
             },
             "sample_temp": {
@@ -304,7 +304,7 @@
             },
             "index": 12,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 8.485638999999999
             },
             "sample_temp": {
@@ -331,7 +331,7 @@
             },
             "index": 13,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 9.482136
             },
             "sample_temp": {
@@ -358,7 +358,7 @@
             },
             "index": 14,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 10.47063
             },
             "sample_temp": {
@@ -385,7 +385,7 @@
             },
             "index": 15,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 11.46148
             },
             "sample_temp": {
@@ -412,7 +412,7 @@
             },
             "index": 16,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 12.45397
             },
             "sample_temp": {
@@ -439,7 +439,7 @@
             },
             "index": 17,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 13.44192
             },
             "sample_temp": {
@@ -466,7 +466,7 @@
             },
             "index": 18,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 14.43649
             },
             "sample_temp": {
@@ -493,7 +493,7 @@
             },
             "index": 19,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 15.42816
             },
             "sample_temp": {
@@ -520,7 +520,7 @@
             },
             "index": 20,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 16.423
             },
             "sample_temp": {
@@ -547,7 +547,7 @@
             },
             "index": 21,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 17.415770000000002
             },
             "sample_temp": {
@@ -574,7 +574,7 @@
             },
             "index": 22,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 18.41227
             },
             "sample_temp": {
@@ -601,7 +601,7 @@
             },
             "index": 23,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 19.40697
             },
             "sample_temp": {
@@ -628,7 +628,7 @@
             },
             "index": 24,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 19.40697
             },
             "sample_temp": {
@@ -655,7 +655,7 @@
             },
             "index": 25,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 18.52646
             },
             "sample_temp": {
@@ -682,7 +682,7 @@
             },
             "index": 26,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 17.53023
             },
             "sample_temp": {
@@ -709,7 +709,7 @@
             },
             "index": 27,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 16.54229
             },
             "sample_temp": {
@@ -736,7 +736,7 @@
             },
             "index": 28,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 15.53448
             },
             "sample_temp": {
@@ -763,7 +763,7 @@
             },
             "index": 29,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 14.55688
             },
             "sample_temp": {
@@ -790,7 +790,7 @@
             },
             "index": 30,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 13.562040000000001
             },
             "sample_temp": {
@@ -817,7 +817,7 @@
             },
             "index": 31,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 12.566780000000001
             },
             "sample_temp": {
@@ -844,7 +844,7 @@
             },
             "index": 32,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 11.578280000000001
             },
             "sample_temp": {
@@ -871,7 +871,7 @@
             },
             "index": 33,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 10.589649999999999
             },
             "sample_temp": {
@@ -898,7 +898,7 @@
             },
             "index": 34,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 9.600733
             },
             "sample_temp": {
@@ -925,7 +925,7 @@
             },
             "index": 35,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 8.612511
             },
             "sample_temp": {
@@ -952,7 +952,7 @@
             },
             "index": 36,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 7.622357
             },
             "sample_temp": {
@@ -979,7 +979,7 @@
             },
             "index": 37,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 6.6137250000000005
             },
             "sample_temp": {
@@ -1006,7 +1006,7 @@
             },
             "index": 38,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 5.643844
             },
             "sample_temp": {
@@ -1033,7 +1033,7 @@
             },
             "index": 39,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 4.643624
             },
             "sample_temp": {
@@ -1060,7 +1060,7 @@
             },
             "index": 40,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 3.6148569999999998
             },
             "sample_temp": {
@@ -1087,7 +1087,7 @@
             },
             "index": 41,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 2.661938
             },
             "sample_temp": {
@@ -1114,7 +1114,7 @@
             },
             "index": 42,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 1.625311
             },
             "sample_temp": {
@@ -1141,7 +1141,7 @@
             },
             "index": 43,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 0.9443395
             },
             "sample_temp": {
@@ -1168,7 +1168,7 @@
             },
             "index": 44,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 0.7809229
             },
             "sample_temp": {
@@ -1195,7 +1195,7 @@
             },
             "index": 45,
             "pressure": {
-                "unit": "bar",
+                "unit": "Bar",
                 "value": 0.659705
             },
             "sample_temp": {
